@@ -6,7 +6,7 @@ class Solution:
                 if nums[i] + nums[j] == target:
                     return [i, j]
                     
-# Someone else's more efficient solution:
+# More efficient solution:
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         computed_sum = {}
