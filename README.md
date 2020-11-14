@@ -9,6 +9,7 @@
   * [34. Find First and Last Position of Element in Sorted Array](Practice-Problems/find-first-and-last-position-of-element-in-sorted-array)
   * [58. Length of Last Word](Practice-Problems/lenght-of-last-word)
   * [67. Add Binary](Practice-Problems/add-binary)
+  * [136. Single Number](Practice-Problems/single-number)
   * [692. Top K Frequent Words](Practice-Problems/top-k-frequent-words)
   * [717. 1-bit and 2-bit Characters](Practice-Problems/1-bit-and-2-bit-characters)
   * [1342. Number of Steps to Reduce a Number to Zero](Practice-Problems/number-of-steps-to-reduce-a-number-to-zero)
