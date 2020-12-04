@@ -16,3 +16,4 @@
   * [717. 1-bit and 2-bit Characters](Practice-Problems/1-bit-and-2-bit-characters)
   * [1313. Decompress Run-Length Encoded List](Practice-Problems/decompress-run-length-encoded-list)
   * [1342. Number of Steps to Reduce a Number to Zero](Practice-Problems/number-of-steps-to-reduce-a-number-to-zero)
+  * [1470. Shuffle the Array](Practice-Problems/shuffle-the-array)
