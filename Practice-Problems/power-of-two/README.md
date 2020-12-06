@@ -1,6 +1,6 @@
 # 231. Power of Two
 
-## [Problem]
+## Problem
 
 Given an integer n, return true if it is a power of two. Otherwise, return false.
 
