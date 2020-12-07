@@ -11,7 +11,7 @@
   * [67. Add Binary](Practice-Problems/add-binary)
   * [136. Single Number](Practice-Problems/single-number)
   * [231. Power of Two](Practice-Problems/power-of-two)  
-  * [303. Range Sum Query - Immutableo(Practice-Problems/range-sum-query-immutable)  
+  * [303. Range Sum Query - Immutable](Practice-Problems/range-sum-query-immutable)
   * [344. Reverse String](Practice-Problems/reverse-string)
   * [349. Intersection of Two Arrays](Practice-Problems/intersection-of-two-arrays)
   * [692. Top K Frequent Words](Practice-Problems/top-k-frequent-words)
