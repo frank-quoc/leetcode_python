@@ -11,6 +11,7 @@
   * [58. Length of Last Word](Practice-Problems/lenght-of-last-word)
   * [67. Add Binary](Practice-Problems/add-binary)
   * [136. Single Number](Practice-Problems/single-number)
+  * [155. Min Stack](Practice-Problems/min-stack)
   * [231. Power of Two](Practice-Problems/power-of-two)  
   * [303. Range Sum Query - Immutable](Practice-Problems/range-sum-query-immutable)
   * [344. Reverse String](Practice-Problems/reverse-string)
