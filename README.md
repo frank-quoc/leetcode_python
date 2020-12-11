@@ -10,6 +10,7 @@
   * [34. Find First and Last Position of Element in Sorted Array](Practice-Problems/find-first-and-last-position-of-element-in-sorted-array)
   * [58. Length of Last Word](Practice-Problems/lenght-of-last-word)
   * [67. Add Binary](Practice-Problems/add-binary)
+  * [69. Sqrt(x)](Practice-Problems/sqrt-x)
   * [136. Single Number](Practice-Problems/single-number)
   * [155. Min Stack](Practice-Problems/min-stack)
   * [231. Power of Two](Practice-Problems/power-of-two)  
