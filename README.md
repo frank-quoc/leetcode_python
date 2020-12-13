@@ -15,6 +15,7 @@
   * [155. Min Stack](Practice-Problems/min-stack)
   * [231. Power of Two](Practice-Problems/power-of-two)  
   * [303. Range Sum Query - Immutable](Practice-Problems/range-sum-query-immutable)
+  * [342. Power of Four](Practice-Problems/power-of-four)
   * [344. Reverse String](Practice-Problems/reverse-string)
   * [349. Intersection of Two Arrays](Practice-Problems/intersection-of-two-arrays)
   * [551. Student Attendance Record I](Practice-Problems/student-attendance-record-i)
