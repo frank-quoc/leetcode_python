@@ -14,6 +14,7 @@
   * [88. Merge Sorted Array](Practice-Problems/merged-sorted-array)
   * [136. Single Number](Practice-Problems/single-number)
   * [155. Min Stack](Practice-Problems/min-stack)
+  * [190. Reverse Bits](Practice-Problems/reverse-bits)
   * [231. Power of Two](Practice-Problems/power-of-two)  
   * [303. Range Sum Query - Immutable](Practice-Problems/range-sum-query-immutable)
   * [342. Power of Four](Practice-Problems/power-of-four)
