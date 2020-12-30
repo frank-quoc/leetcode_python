@@ -3,6 +3,7 @@
 - **Practice Problems**
   * [1. Two Sum](Practice-Problems/two-sum)
   * [7. Reverse Integer](Practice-Problems/reverse-integer)
+  * [9. Palindrome Number](Practice-Problems/palindrome-number)
   * [13. Roman to Integer](Practice-Problems/roman-to-integer)
   * [14. Longest Common Prefix](Practice-Problems/longest-common-prefix)
   * [20. Valid Parentheses](Practice-Problems/valid-parentheses)
