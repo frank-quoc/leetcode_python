@@ -8,6 +8,7 @@
   * [14. Longest Common Prefix](Practice-Problems/longest-common-prefix)
   * [20. Valid Parentheses](Practice-Problems/valid-parentheses)
   * [21. Merge Two Sorted Lists](Practice-Problems/merge-two-sorted-lists)
+  * [26. Remove Duplicates from Sorted Array](Practice-Problems/remove-duplicates-from-sorted-array)
   * [28. Implement strStr()](Practice-Problems/implement-strstr)
   * [34. Find First and Last Position of Element in Sorted Array](Practice-Problems/find-first-and-last-position-of-element-in-sorted-array)
   * [58. Length of Last Word](Practice-Problems/lenght-of-last-word)
