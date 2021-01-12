@@ -13,6 +13,7 @@
   * [28. Implement strStr()](Practice-Problems/implement-strstr)
   * [34. Find First and Last Position of Element in Sorted Array](Practice-Problems/find-first-and-last-position-of-element-in-sorted-array)
   * [38. Count and Say](Practice-Problems/count-and-say)
+  * [53. Maximum Subarray](Practice-Problems/maximum-subarray)
   * [58. Length of Last Word](Practice-Problems/lenght-of-last-word)
   * [67. Add Binary](Practice-Problems/add-binary)
   * [69. Sqrt(x)](Practice-Problems/sqrt-x)
