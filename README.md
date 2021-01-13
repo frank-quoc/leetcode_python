@@ -17,6 +17,7 @@
   * [58. Length of Last Word](Practice-Problems/lenght-of-last-word)
   * [67. Add Binary](Practice-Problems/add-binary)
   * [69. Sqrt(x)](Practice-Problems/sqrt-x)
+  * [70. Climbing Stairs](Practice-Problems/climbing-stairs)
   * [88. Merge Sorted Array](Practice-Problems/merged-sorted-array)
   * [136. Single Number](Practice-Problems/single-number)
   * [155. Min Stack](Practice-Problems/min-stack)
