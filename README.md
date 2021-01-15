@@ -24,6 +24,7 @@
   * [190. Reverse Bits](Practice-Problems/reverse-bits)
   * [205. Isomorphic Strings](Practice-Problems/isomorphic-strings)
   * [231. Power of Two](Practice-Problems/power-of-two)  
+  * [263. Ugly Number](Practice-Problems/ugly-number)  
   * [303. Range Sum Query - Immutable](Practice-Problems/range-sum-query-immutable)
   * [342. Power of Four](Practice-Problems/power-of-four)
   * [344. Reverse String](Practice-Problems/reverse-string)
