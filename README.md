@@ -33,6 +33,7 @@
   * [551. Student Attendance Record I](Practice-Problems/student-attendance-record-i)
   * [665. Non-decreasing Array](Practice-Problems/non-decreasing-array)
   * [692. Top K Frequent Words](Practice-Problems/top-k-frequent-words)
+  * [1431. Kids With the Greatest Number of Candies](Practice-Problems/kids-with-the-greatest-number-of-candies)
   * [717. 1-bit and 2-bit Characters](Practice-Problems/1-bit-and-2-bit-characters)
   * [970. Powerful Integers](Practice-Problems/powerful-integers)
   * [1108. Defanging an IP Address](Practice-Problems/defanging-an-ip-address)
