@@ -31,6 +31,7 @@
   * [344. Reverse String](Practice-Problems/reverse-string)
   * [349. Intersection of Two Arrays](Practice-Problems/intersection-of-two-arrays)
   * [551. Student Attendance Record I](Practice-Problems/student-attendance-record-i)
+  * [561. Array Partition I](Practice-Problems/array-partition-i)
   * [665. Non-decreasing Array](Practice-Problems/non-decreasing-array)
   * [692. Top K Frequent Words](Practice-Problems/top-k-frequent-words)
   * [1480. Running Sum of 1d Array](Practice-Problems/running-sum-of-1d-array)
