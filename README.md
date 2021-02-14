@@ -37,6 +37,7 @@
   * [717. 1-bit and 2-bit Characters](Practice-Problems/1-bit-and-2-bit-characters)
   * [804. Unique Morse Code Words](Practice-Problems/unique-morse-code-words)
   * [970. Powerful Integers](Practice-Problems/powerful-integers)
+  * [989. Add to Array-Form of Integer](Practice-Problems/add-to-array-form-of-integer)
   * [1108. Defanging an IP Address](Practice-Problems/defanging-an-ip-address)
   * [1207. Unique Number of Occurrences](Practice-Problems/unique-number-of-occurrences)
   * [1313. Decompress Run-Length Encoded List](Practice-Problems/decompress-run-length-encoded-list)
