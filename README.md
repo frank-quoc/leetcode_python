@@ -40,6 +40,7 @@
   * [989. Add to Array-Form of Integer](Practice-Problems/add-to-array-form-of-integer)
   * [1108. Defanging an IP Address](Practice-Problems/defanging-an-ip-address)
   * [1207. Unique Number of Occurrences](Practice-Problems/unique-number-of-occurrences)
+  * [1252. Cells with Odd Values in a Matrix](Practice-Problems/cells-with-odd-values-in-a-matrix)
   * [1313. Decompress Run-Length Encoded List](Practice-Problems/decompress-run-length-encoded-list)
   * [1342. Number of Steps to Reduce a Number to Zero](Practice-Problems/number-of-steps-to-reduce-a-number-to-zero)
   * [1431. Kids With the Greatest Number of Candies](Practice-Problems/kids-with-the-greatest-number-of-candies)
