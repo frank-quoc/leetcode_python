@@ -52,3 +52,4 @@
   * [1486. XOR Operation in an Array](Practice-Problems/xor-operation-in-an-arry)
   * [1518. Water Bottles](Practice-Problems/water-bottles)
   * [1668. Maximum Repeating Substring](Practice-Problems/maximum-repeating-substring)
+  * [1672. Richest Customer Wealth](Practice-Problems/richest-customer-wealth)
