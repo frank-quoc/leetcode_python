@@ -30,3 +30,5 @@ parkingSystem.addCar(1); // return false because there is no available slot for 
 * 0 <= big, medium, small <= 1000
 * carType is 1, 2, or 3
 * At most 1000 calls will be made to addCar
+
+## [Solution](answer.py)
