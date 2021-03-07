@@ -54,6 +54,7 @@
   * [1486. XOR Operation in an Array](Practice-Problems/xor-operation-in-an-array)
   * [1512. Number of Good Pairs](Practice-Problems/number-of-good-pairs)
   * [1518. Water Bottles](Practice-Problems/water-bottles)
+  * [1528. Shuffle String](Practice-Problems/shuffle-string)
   * [1603. Design Parking System](Practice-Problems/design-parking-system)
   * [1668. Maximum Repeating Substring](Practice-Problems/maximum-repeating-substring)
   * [1672. Richest Customer Wealth](Practice-Problems/richest-customer-wealth)
