@@ -57,3 +57,4 @@
   * [1603. Design Parking System](Practice-Problems/design-parking-system)
   * [1668. Maximum Repeating Substring](Practice-Problems/maximum-repeating-substring)
   * [1672. Richest Customer Wealth](Practice-Problems/richest-customer-wealth)
+  * [1773. Count Items Matching a Rule](Practice-Problems/count-items-matching-a-rule)
