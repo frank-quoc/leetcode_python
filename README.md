@@ -50,6 +50,7 @@
   * [1431. Kids With the Greatest Number of Candies](Practice-Problems/kids-with-the-greatest-number-of-candies)
   * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](Practice-Problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)
   * [1470. Shuffle the Array](Practice-Problems/shuffle-the-array)
+  * [1476. Subrectangle Queries](Practice-Problems/subrectangle-queries)
   * [1480. Running Sum of 1d Array](Practice-Problems/running-sum-of-1d-array)
   * [1486. XOR Operation in an Array](Practice-Problems/xor-operation-in-an-array)
   * [1512. Number of Good Pairs](Practice-Problems/number-of-good-pairs)
