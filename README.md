@@ -46,6 +46,7 @@
   * [1207. Unique Number of Occurrences](Practice-Problems/unique-number-of-occurrences)
   * [1221. Split a String in Balanced Strings](Practice-Problems/split-a-string-in-balanced-strings)
   * [1252. Cells with Odd Values in a Matrix](Practice-Problems/cells-with-odd-values-in-a-matrix)
+  * [1281. Subtract the Product and Sum of Digits of an Integer](Practice-Problems/subtract-the-product-and-sum-of-digits-of-an-integer)
   * [1313. Decompress Run-Length Encoded List](Practice-Problems/decompress-run-length-encoded-list)
   * [1342. Number of Steps to Reduce a Number to Zero](Practice-Problems/number-of-steps-to-reduce-a-number-to-zero)
   * [1365. How Many Numbers Are Smaller Than the Current Number](Practice-Problems/how-many-numbers-are-smaller-than-the-current-number)
