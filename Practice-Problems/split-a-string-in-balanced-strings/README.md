@@ -42,3 +42,5 @@ Explanation: s can be split into "RL", "RRRLLRLL", since each substring contains
 * 1 <= s.length <= 1000
 * s[i] is either 'L' or 'R'.
 * s is a balanced string.
+
+## [Solution](answer.py)
