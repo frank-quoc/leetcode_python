@@ -61,6 +61,7 @@
   * [1518. Water Bottles](Practice-Problems/water-bottles)
   * [1528. Shuffle String](Practice-Problems/shuffle-string)
   * [1603. Design Parking System](Practice-Problems/design-parking-system)
+  * [1614. Maximum Nesting Depth of the Parentheses](Practice-Problems/max-nesting-depth-of-the-parentheses)
   * [1668. Maximum Repeating Substring](Practice-Problems/maximum-repeating-substring)
   * [1672. Richest Customer Wealth](Practice-Problems/richest-customer-wealth)
   * [1678. Goal Parser Interpretation](Practice-Problems/goal-parser-interpretation)
