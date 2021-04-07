@@ -46,6 +46,7 @@
   * [1207. Unique Number of Occurrences](Practice-Problems/unique-number-of-occurrences)
   * [1221. Split a String in Balanced Strings](Practice-Problems/split-a-string-in-balanced-strings)
   * [1252. Cells with Odd Values in a Matrix](Practice-Problems/cells-with-odd-values-in-a-matrix)
+  * [1266. Minimum Time Visiting All Points](Practice-Problems/min-time-visiting-all-points)
   * [1281. Subtract the Product and Sum of Digits of an Integer](Practice-Problems/subtract-the-product-and-sum-of-digits-of-an-integer)
   * [1290. Convert Binary Number in a Linked List to Integer](Practice-Problems/convert-binary-number-in-a-linked-list-to-integer)
   * [1313. Decompress Run-Length Encoded List](Practice-Problems/decompress-run-length-encoded-list)
