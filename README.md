@@ -39,6 +39,7 @@
   * [771. Jewels and Stones](Practice-Problems/jewels-and-stones)
   * [804. Unique Morse Code Words](Practice-Problems/unique-morse-code-words)
   * [807. Max Increase to Keep City Skyline](Practice-Problems/max-increase-to-keep-city-skyline)
+  * [832. Flipping an Image](Practice-Problems/flipping-an-image)
   * [867. Transpose Matrix](Practice-Problems/transpose-matrix)
   * [970. Powerful Integers](Practice-Problems/powerful-integers)
   * [989. Add to Array-Form of Integer](Practice-Problems/add-to-array-form-of-integer)
