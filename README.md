@@ -82,3 +82,4 @@
   * [1773. Count Items Matching a Rule](Practice-Problems/count-items-matching-a-rule)
   * [1812. Determine Color of a Chessboard Square](Practice-Problems/determine-color-of-a-chessboard-square)
   * [1816. Truncate Sentence](Practice-Problems/truncate-sentence)
+  * [1827. Minimum Operations to Make the Array Increasing](Practice-Problems/min-ops-to-make-the-array-increasing)
