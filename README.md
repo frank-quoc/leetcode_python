@@ -53,6 +53,7 @@
   * [1290. Convert Binary Number in a Linked List to Integer](Practice-Problems/convert-binary-number-in-a-linked-list-to-integer)
   * [1295. Find Numbers with Even Number of Digits](Practice-Problems/find-numbers-with-even-number-of-digits)
   * [1313. Decompress Run-Length Encoded List](Practice-Problems/decompress-run-length-encoded-list)
+  * [1323. Maximum 69 Number](Practice-Problems/maximum-69-number)
   * [1342. Number of Steps to Reduce a Number to Zero](Practice-Problems/number-of-steps-to-reduce-a-number-to-zero)
   * [1365. How Many Numbers Are Smaller Than the Current Number](Practice-Problems/how-many-numbers-are-smaller-than-the-current-number)
   * [1389. Create Target Array in the Given Order](Practice-Problems/create-target-array-in-the-given-order)
