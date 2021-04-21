@@ -52,6 +52,7 @@
   * [1281. Subtract the Product and Sum of Digits of an Integer](Practice-Problems/subtract-the-product-and-sum-of-digits-of-an-integer)
   * [1290. Convert Binary Number in a Linked List to Integer](Practice-Problems/convert-binary-number-in-a-linked-list-to-integer)
   * [1295. Find Numbers with Even Number of Digits](Practice-Problems/find-numbers-with-even-number-of-digits)
+  * [1309. Decrypt String from Alphabet to Integer Mapping](Practice-Problems/decrypt-string-from-alphabet-to-int-mapping)
   * [1313. Decompress Run-Length Encoded List](Practice-Problems/decompress-run-length-encoded-list)
   * [1323. Maximum 69 Number](Practice-Problems/maximum-69-number)
   * [1342. Number of Steps to Reduce a Number to Zero](Practice-Problems/number-of-steps-to-reduce-a-number-to-zero)
