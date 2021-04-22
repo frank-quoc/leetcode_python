@@ -68,6 +68,7 @@
   * [1518. Water Bottles](Practice-Problems/water-bottles)
   * [1528. Shuffle String](Practice-Problems/shuffle-string)
   * [1534. Count Good Triplets](Practice-Problems/count-good-triplets)
+  * [1572. Matrix Diagonal Sum](Practice-Problems/matrix-diagonal-sum)
   * [1588. Sum of All Odd Length Subarrays](Practice-Problems/sum-of-all-odd-length-subarrays)
   * [1603. Design Parking System](Practice-Problems/design-parking-system)
   * [1614. Maximum Nesting Depth of the Parentheses](Practice-Problems/max-nesting-depth-of-the-parentheses)
