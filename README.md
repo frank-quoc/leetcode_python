@@ -57,6 +57,7 @@
   * [1323. Maximum 69 Number](Practice-Problems/maximum-69-number)
   * [1342. Number of Steps to Reduce a Number to Zero](Practice-Problems/number-of-steps-to-reduce-a-number-to-zero)
   * [1365. How Many Numbers Are Smaller Than the Current Number](Practice-Problems/how-many-numbers-are-smaller-than-the-current-number)
+  * [1370. Increasing Decreasing String](Practice-Problems/increasing-decreasing-string)
   * [1389. Create Target Array in the Given Order](Practice-Problems/create-target-array-in-the-given-order)
   * [1431. Kids With the Greatest Number of Candies](Practice-Problems/kids-with-the-greatest-number-of-candies)
   * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](Practice-Problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)
