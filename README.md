@@ -60,6 +60,7 @@
   * [1370. Increasing Decreasing String](Practice-Problems/increasing-decreasing-string)
   * [1389. Create Target Array in the Given Order](Practice-Problems/create-target-array-in-the-given-order)
   * [1431. Kids With the Greatest Number of Candies](Practice-Problems/kids-with-the-greatest-number-of-candies)
+  * [1436. Destination City](Practice-Problems/destination-city)
   * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](Practice-Problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)
   * [1470. Shuffle the Array](Practice-Problems/shuffle-the-array)
   * [1476. Subrectangle Queries](Practice-Problems/subrectangle-queries)
