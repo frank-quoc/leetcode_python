@@ -61,6 +61,7 @@
   * [1389. Create Target Array in the Given Order](Practice-Problems/create-target-array-in-the-given-order)
   * [1431. Kids With the Greatest Number of Candies](Practice-Problems/kids-with-the-greatest-number-of-candies)
   * [1436. Destination City](Practice-Problems/destination-city)
+  * [1450. Number of Students Doing Homework at a Given Time](Practice-Problems/num-of-student-doing-hw-at-a-given-time)
   * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](Practice-Problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)
   * [1464. Maximum Product of Two Elements in an Array](Practice-Problems/max-product-of-two-elements-in-an-array)
   * [1470. Shuffle the Array](Practice-Problems/shuffle-the-array)
