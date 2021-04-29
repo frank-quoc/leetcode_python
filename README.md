@@ -58,6 +58,7 @@
   * [1342. Number of Steps to Reduce a Number to Zero](Practice-Problems/number-of-steps-to-reduce-a-number-to-zero)
   * [1365. How Many Numbers Are Smaller Than the Current Number](Practice-Problems/how-many-numbers-are-smaller-than-the-current-number)
   * [1370. Increasing Decreasing String](Practice-Problems/increasing-decreasing-string)
+  * [1374. Generate a String With Characters That Have Odd Counts](Practice-Problems/generate-a-string-with-characters-that-have-odd-counts)
   * [1389. Create Target Array in the Given Order](Practice-Problems/create-target-array-in-the-given-order)
   * [1431. Kids With the Greatest Number of Candies](Practice-Problems/kids-with-the-greatest-number-of-candies)
   * [1436. Destination City](Practice-Problems/destination-city)
