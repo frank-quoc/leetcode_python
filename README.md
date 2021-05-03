@@ -35,6 +35,7 @@
   * [665. Non-decreasing Array](Practice-Problems/non-decreasing-array)
   * [682. Baseball Game](Practice-Problems/baseball-game)
   * [692. Top K Frequent Words](Practice-Problems/top-k-frequent-words)
+  * [728. Self Dividing Numbers](Practice-Problems/self-dividing-numbers)
   * [717. 1-bit and 2-bit Characters](Practice-Problems/1-bit-and-2-bit-characters)
   * [771. Jewels and Stones](Practice-Problems/jewels-and-stones)
   * [804. Unique Morse Code Words](Practice-Problems/unique-morse-code-words)
