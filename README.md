@@ -58,6 +58,7 @@
   * [1313. Decompress Run-Length Encoded List](Practice-Problems/decompress-run-length-encoded-list)
   * [1323. Maximum 69 Number](Practice-Problems/maximum-69-number)
   * [1342. Number of Steps to Reduce a Number to Zero](Practice-Problems/number-of-steps-to-reduce-a-number-to-zero)
+  * [1351. Count Negative Numbers in a Sorted Matrix](Practice-Problems/count-negative-numbers-in-a-sorted-matrix)
   * [1365. How Many Numbers Are Smaller Than the Current Number](Practice-Problems/how-many-numbers-are-smaller-than-the-current-number)
   * [1370. Increasing Decreasing String](Practice-Problems/increasing-decreasing-string)
   * [1374. Generate a String With Characters That Have Odd Counts](Practice-Problems/generate-a-string-with-characters-that-have-odd-counts)
