@@ -42,6 +42,7 @@
   * [807. Max Increase to Keep City Skyline](Practice-Problems/max-increase-to-keep-city-skyline)
   * [832. Flipping an Image](Practice-Problems/flipping-an-image)
   * [867. Transpose Matrix](Practice-Problems/transpose-matrix)
+  * [905. Sort Array By Parity](Practice-Problems/sort-array-by-parity)
   * [970. Powerful Integers](Practice-Problems/powerful-integers)
   * [989. Add to Array-Form of Integer](Practice-Problems/add-to-array-form-of-integer)
   * [1021. Remove Outermost Parentheses](Practice-Problems/remove-outermost-parenthesis)
