@@ -70,6 +70,7 @@
   * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](Practice-Problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)
   * [1464. Maximum Product of Two Elements in an Array](Practice-Problems/max-product-of-two-elements-in-an-array)
   * [1470. Shuffle the Array](Practice-Problems/shuffle-the-array)
+  * [1475. Final Prices With a Special Discount in a Shop](Practice-Problems/final-prices-with-a-special-discount-in-a-shop)
   * [1476. Subrectangle Queries](Practice-Problems/subrectangle-queries)
   * [1480. Running Sum of 1d Array](Practice-Problems/running-sum-of-1d-array)
   * [1486. XOR Operation in an Array](Practice-Problems/xor-operation-in-an-array)
