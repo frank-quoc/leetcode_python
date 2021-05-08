@@ -92,6 +92,7 @@
   * [1704. Determine if String Halves Are Alike](Practice-Problems/determine-if-string-halves-are-alike)
   * [1725. Number Of Rectangles That Can Form The Largest Square](Practice-Problems/num-of-rect-that-can-form-the-largest-square)
   * [1732. Find the Highest Altitude](Practice-Problems/find-the-highest-altitude)
+  * [1748. Sum of Unique Elements](Practice-Problems/sum-of-unique-elements)
   * [1768. Merge Strings Alternately](Practice-Problems/merge-strings-alternately)
   * [1769. Minimum Number of Operations to Move All Balls to Each Box](Practice-Problems/min-num-of-ops-to-move-all-balls-to-each-box)
   * [1773. Count Items Matching a Rule](Practice-Problems/count-items-matching-a-rule)
