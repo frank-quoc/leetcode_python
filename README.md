@@ -64,6 +64,7 @@
   * [1309. Decrypt String from Alphabet to Integer Mapping](Practice-Problems/decrypt-string-from-alphabet-to-int-mapping)
   * [1313. Decompress Run-Length Encoded List](Practice-Problems/decompress-run-length-encoded-list)
   * [1323. Maximum 69 Number](Practice-Problems/maximum-69-number)
+  * [1337. The K Weakest Rows in a Matrix](Practice-Problems/the-k-weakest-rows-in-a-matrix)
   * [1342. Number of Steps to Reduce a Number to Zero](Practice-Problems/number-of-steps-to-reduce-a-number-to-zero)
   * [1351. Count Negative Numbers in a Sorted Matrix](Practice-Problems/count-negative-numbers-in-a-sorted-matrix)
   * [1365. How Many Numbers Are Smaller Than the Current Number](Practice-Problems/how-many-numbers-are-smaller-than-the-current-number)
