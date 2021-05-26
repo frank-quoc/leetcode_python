@@ -75,6 +75,7 @@
   * [1436. Destination City](Practice-Problems/destination-city)
   * [1450. Number of Students Doing Homework at a Given Time](Practice-Problems/num-of-student-doing-hw-at-a-given-time)
   * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](Practice-Problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)
+  * [1460. Make Two Arrays Equal by Reversing Sub-arrays](Practice-Problems/make-two-arrays-equal-by-reversing-sub-arrays)
   * [1464. Maximum Product of Two Elements in an Array](Practice-Problems/max-product-of-two-elements-in-an-array)
   * [1470. Shuffle the Array](Practice-Problems/shuffle-the-array)
   * [1475. Final Prices With a Special Discount in a Shop](Practice-Problems/final-prices-with-a-special-discount-in-a-shop)
