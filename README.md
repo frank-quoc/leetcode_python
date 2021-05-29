@@ -50,6 +50,7 @@
   * [970. Powerful Integers](Practice-Problems/powerful-integers)
   * [989. Add to Array-Form of Integer](Practice-Problems/add-to-array-form-of-integer)
   * [1021. Remove Outermost Parentheses](Practice-Problems/remove-outermost-parenthesis)
+  * [1047. Remove All Adjacent Duplicates In String](Practice-Problems/remove-all-adjacent-duplicates-in-string)
   * [1051. Height Checker](Practice-Problems/height-checker)
   * [1108. Defanging an IP Address](Practice-Problems/defanging-an-ip-address)
   * [1207. Unique Number of Occurrences](Practice-Problems/unique-number-of-occurrences)
