@@ -43,6 +43,7 @@
   * [804. Unique Morse Code Words](Practice-Problems/unique-morse-code-words)
   * [807. Max Increase to Keep City Skyline](Practice-Problems/max-increase-to-keep-city-skyline)
   * [832. Flipping an Image](Practice-Problems/flipping-an-image)
+  * [852. Peak Index in a Mountain Array](Practice-Problems/peak-index-in-a-mountain-array)
   * [867. Transpose Matrix](Practice-Problems/transpose-matrix)
   * [905. Sort Array By Parity](Practice-Problems/sort-array-by-parity)
   * [933. Number of Recent Calls](Practice-Problems/number-of-recent-calls)
