@@ -49,6 +49,7 @@
   * [933. Number of Recent Calls](Practice-Problems/number-of-recent-calls)
   * [961. N-Repeated Element in Size 2N Array](Practice-Problems/n-repeated-element-in-size-2n-array)
   * [970. Powerful Integers](Practice-Problems/powerful-integers)
+  * [977. Squares of a Sorted Array](Practice-Problems/squares-of-a-sorted-array)
   * [989. Add to Array-Form of Integer](Practice-Problems/add-to-array-form-of-integer)
   * [1021. Remove Outermost Parentheses](Practice-Problems/remove-outermost-parenthesis)
   * [1047. Remove All Adjacent Duplicates In String](Practice-Problems/remove-all-adjacent-duplicates-in-string)
