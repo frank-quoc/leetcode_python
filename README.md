@@ -27,6 +27,7 @@
   * [219. Contains Duplicate II](Practice-Problems/contains-duplicate-ii)  
   * [263. Ugly Number](Practice-Problems/ugly-number)  
   * [303. Range Sum Query - Immutable](Practice-Problems/range-sum-query-immutable)
+  * [338. Counting Bits](Practice-Problems/counting-bits)
   * [342. Power of Four](Practice-Problems/power-of-four)
   * [344. Reverse String](Practice-Problems/reverse-string)
   * [349. Intersection of Two Arrays](Practice-Problems/intersection-of-two-arrays)
