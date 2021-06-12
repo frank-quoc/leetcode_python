@@ -57,6 +57,7 @@
   * [1051. Height Checker](Practice-Problems/height-checker)
   * [1108. Defanging an IP Address](Practice-Problems/defanging-an-ip-address)
   * [1207. Unique Number of Occurrences](Practice-Problems/unique-number-of-occurrences)
+  * [1217. Minimum Cost to Move Chips to The Same Position](Practice-Problems/minimum-cost-to-move-chips-to-the-same-position)
   * [1221. Split a String in Balanced Strings](Practice-Problems/split-a-string-in-balanced-strings)
   * [1252. Cells with Odd Values in a Matrix](Practice-Problems/cells-with-odd-values-in-a-matrix)
   * [1266. Minimum Time Visiting All Points](Practice-Problems/min-time-visiting-all-points)
