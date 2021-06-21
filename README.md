@@ -48,6 +48,7 @@
   * [867. Transpose Matrix](Practice-Problems/transpose-matrix)
   * [905. Sort Array By Parity](Practice-Problems/sort-array-by-parity)
   * [933. Number of Recent Calls](Practice-Problems/number-of-recent-calls)
+  * [944. Delete Columns to Make Sorted](Practice-Problems/delete-columns-to-make-sorted)
   * [961. N-Repeated Element in Size 2N Array](Practice-Problems/n-repeated-element-in-size-2n-array)
   * [970. Powerful Integers](Practice-Problems/powerful-integers)
   * [977. Squares of a Sorted Array](Practice-Problems/squares-of-a-sorted-array)
