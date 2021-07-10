@@ -20,6 +20,7 @@
   * [70. Climbing Stairs](Practice-Problems/climbing-stairs)
   * [88. Merge Sorted Array](Practice-Problems/merged-sorted-array)
   * [136. Single Number](Practice-Problems/single-number)
+  * [146. LRU Cache](Practice-Problems/lru-cache)
   * [155. Min Stack](Practice-Problems/min-stack)
   * [190. Reverse Bits](Practice-Problems/reverse-bits)
   * [205. Isomorphic Strings](Practice-Problems/isomorphic-strings)
