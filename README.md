@@ -94,6 +94,7 @@
   * [1528. Shuffle String](Practice-Problems/shuffle-string)
   * [1534. Count Good Triplets](Practice-Problems/count-good-triplets)
   * [1572. Matrix Diagonal Sum](Practice-Problems/matrix-diagonal-sum)
+  * [1576. Replace All ?'s to Avoid Consecutive Repeating Characters](Practice-Problems/replace-all-?s-to-avoid-consecutive-repeating-characters)
   * [1588. Sum of All Odd Length Subarrays](Practice-Problems/sum-of-all-odd-length-subarrays)
   * [1603. Design Parking System](Practice-Problems/design-parking-system)
   * [1614. Maximum Nesting Depth of the Parentheses](Practice-Problems/max-nesting-depth-of-the-parentheses)
